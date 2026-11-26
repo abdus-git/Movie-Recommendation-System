@@ -1,0 +1,561 @@
+﻿seed_movie,seed_movie_id,model_name,recommended_movie,recommended_movie_id,rank,similarity_score,genre,industry,metadata_completeness,seed_genre_overlap,title_reference_flag
+Dangal,360814,V2,Namkeen,382989,1,0.2194,Drama Family,Bollywood,80.0,0.6667,0
+Dangal,360814,V2,The Longshots,13579,2,0.2024,Drama Family,Hollywood,80.0,0.6667,0
+Dangal,360814,V2,Sunday,1054713,3,0.2,Drama Family Comedy,Bollywood,80.0,1.0,0
+Dangal,360814,V2,Stolen Summer,39541,4,0.2,Drama Family Comedy,Hollywood,80.0,1.0,0
+Dangal,360814,V2,Dear Frankie,8981,5,0.1992,Drama Family,Hollywood,100.0,0.6667,0
+Dangal,360814,V2,M.S. Dhoni: The Untold Story,388333,6,0.1986,Drama,Bollywood,100.0,0.3333,0
+Dangal,360814,V2,The Perfect Game,56601,7,0.1801,Drama Family,Hollywood,100.0,0.6667,0
+Dangal,360814,V2,Joy,274479,8,0.1775,Drama Comedy,Hollywood,100.0,0.6667,0
+Dangal,360814,V2,Hachi: A Dog's Tale,28178,9,0.1768,Drama Family,Hollywood,100.0,0.6667,0
+Dangal,360814,V2,Marmaduke,38579,10,0.175,Family Comedy,Hollywood,80.0,0.6667,0
+Dangal,360814,V3,Sumo Didi,1186823,1,0.6024,Drama,Bollywood,100.0,0.3333,0
+Dangal,360814,V3,Danka,1567912,2,0.6016,,Bollywood,60.0,0.0,0
+Dangal,360814,V3,Narmeen,1324937,3,0.583,Drama History,Bollywood,80.0,0.25,0
+Dangal,360814,V3,Delhi Mellei,913631,4,0.5747,,Bollywood,60.0,0.0,0
+Dangal,360814,V3,Mother India,917,5,0.5619,Drama,Bollywood,100.0,0.3333,0
+Dangal,360814,V3,The Great Shamsuddin Family,1591399,6,0.5586,Comedy Drama Family,Bollywood,80.0,1.0,0
+Dangal,360814,V3,Lailaa Manju,1113495,7,0.5573,,Bollywood,60.0,0.0,0
+Dangal,360814,V3,Awesome Mausam,413064,8,0.5559,Romance,Bollywood,80.0,0.0,0
+Dangal,360814,V3,Madhosh,308068,9,0.5511,,Bollywood,60.0,0.0,0
+Dangal,360814,V3,Damadamm!,81271,10,0.5495,Comedy Drama Romance,Bollywood,80.0,0.5,0
+Dangal,360814,V4 (50:50),Namkeen,382989,1,0.3623,Drama Family,Bollywood,80.0,0.6667,0
+Dangal,360814,V4 (50:50),The Great Shamsuddin Family,1591399,2,0.346,Comedy Drama Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4 (50:50),Sunday,1054713,3,0.3379,Drama Family Comedy,Bollywood,80.0,1.0,0
+Dangal,360814,V4 (50:50),Daadi Ki Shaadi,1464795,4,0.3213,Comedy Drama Family,Bollywood,100.0,1.0,0
+Dangal,360814,V4 (50:50),Sumo Didi,1186823,5,0.3166,Drama,Bollywood,100.0,0.3333,0
+Dangal,360814,V4 (50:50),My Girl,4032,6,0.3165,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4 (50:50),Meethe Mein Kya Hai,1802464,7,0.3102,Family Comedy Drama,Bollywood,100.0,1.0,0
+Dangal,360814,V4 (50:50),Hawas,243855,8,0.3082,Drama Family Romance,Bollywood,80.0,0.5,0
+Dangal,360814,V4 (50:50),Shivaay,370992,9,0.307,Adventure Action Drama Thriller,Bollywood,100.0,0.1667,0
+Dangal,360814,V4 (50:50),M.S. Dhoni: The Untold Story,388333,10,0.306,Drama,Bollywood,100.0,0.3333,0
+Dangal,360814,V4.1 (70:30),Sunday,1054713,1,0.3903,Drama Family Comedy,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (70:30),The Great Shamsuddin Family,1591399,2,0.3719,Comedy Drama Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (70:30),Namkeen,382989,3,0.3594,Drama Family,Bollywood,80.0,0.6667,0
+Dangal,360814,V4.1 (70:30),My Girl,4032,4,0.3584,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (70:30),Daadi Ki Shaadi,1464795,5,0.3531,Comedy Drama Family,Bollywood,100.0,1.0,0
+Dangal,360814,V4.1 (70:30),Meethe Mein Kya Hai,1802464,6,0.3492,Family Comedy Drama,Bollywood,100.0,1.0,0
+Dangal,360814,V4.1 (70:30),Kit Kittredge: An American Girl,8359,7,0.3279,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (70:30),Because of Winn-Dixie,17880,8,0.3269,Comedy Drama Family,Hollywood,80.0,1.0,0
+Dangal,360814,V4.1 (70:30),Stolen Summer,39541,9,0.3264,Drama Family Comedy,Hollywood,80.0,1.0,0
+Dangal,360814,V4.1 (70:30),Annie,196867,10,0.3187,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (50:50),The Great Shamsuddin Family,1591399,1,0.4441,Comedy Drama Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (50:50),Sunday,1054713,2,0.4372,Drama Family Comedy,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (50:50),Daadi Ki Shaadi,1464795,3,0.4231,Comedy Drama Family,Bollywood,100.0,1.0,0
+Dangal,360814,V4.1 (50:50),My Girl,4032,4,0.4191,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (50:50),Meethe Mein Kya Hai,1802464,5,0.4136,Family Comedy Drama,Bollywood,100.0,1.0,0
+Dangal,360814,V4.1 (50:50),Namkeen,382989,6,0.408,Drama Family,Bollywood,80.0,0.6667,0
+Dangal,360814,V4.1 (50:50),Goodbye,817866,7,0.3761,Drama Comedy Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (50:50),Because of Winn-Dixie,17880,8,0.3626,Comedy Drama Family,Hollywood,80.0,1.0,0
+Dangal,360814,V4.1 (50:50),Annie,196867,9,0.3624,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (50:50),Kit Kittredge: An American Girl,8359,10,0.3571,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (30:70),The Great Shamsuddin Family,1591399,1,0.5164,Comedy Drama Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (30:70),Daadi Ki Shaadi,1464795,2,0.4932,Comedy Drama Family,Bollywood,100.0,1.0,0
+Dangal,360814,V4.1 (30:70),Sunday,1054713,3,0.4841,Drama Family Comedy,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (30:70),My Girl,4032,4,0.4797,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.1 (30:70),Meethe Mein Kya Hai,1802464,5,0.4781,Family Comedy Drama,Bollywood,100.0,1.0,0
+Dangal,360814,V4.1 (30:70),Namkeen,382989,6,0.4565,Drama Family,Bollywood,80.0,0.6667,0
+Dangal,360814,V4.1 (30:70),Goodbye,817866,7,0.444,Drama Comedy Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4.1 (30:70),Nauker,308228,8,0.4366,Comedy Drama,Bollywood,80.0,0.6667,0
+Dangal,360814,V4.1 (30:70),Kabhi Khushi Kabhie Gham,10757,9,0.4185,Comedy Drama,Bollywood,100.0,0.6667,0
+Dangal,360814,V4.1 (30:70),Rocky Aur Rani Kii Prem Kahaani,848116,10,0.4163,Comedy Drama Family Romance,Bollywood,100.0,0.75,0
+Dangal,360814,V4.2,The Great Shamsuddin Family,1591399,1,0.346,Comedy Drama Family,Bollywood,80.0,1.0,0
+Dangal,360814,V4.2,Namkeen,382989,2,0.3381,Drama Family,Bollywood,80.0,0.6667,0
+Dangal,360814,V4.2,Sunday,1054713,3,0.3379,Drama Family Comedy,Bollywood,80.0,1.0,0
+Dangal,360814,V4.2,Daadi Ki Shaadi,1464795,4,0.3213,Comedy Drama Family,Bollywood,100.0,1.0,0
+Dangal,360814,V4.2,My Girl,4032,5,0.3165,Comedy Drama Family,Hollywood,100.0,1.0,0
+Dangal,360814,V4.2,Meethe Mein Kya Hai,1802464,6,0.3102,Family Comedy Drama,Bollywood,100.0,1.0,0
+Dangal,360814,V4.2,Danka,1567912,7,0.3008,,Bollywood,60.0,0.0,0
+Dangal,360814,V4.2,Breed,1114909,8,0.2976,,Bollywood,60.0,0.0,0
+Dangal,360814,V4.2,Delhi Mellei,913631,9,0.2927,,Bollywood,60.0,0.0,0
+Dangal,360814,V4.2,Baghban,1520495,10,0.2889,,Bollywood,60.0,0.0,0
+3 Idiots,20453,V2,The Sisterhood of the Traveling Pants,9779,1,0.2233,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V2,The Best Man,16162,2,0.2204,Drama Comedy,Hollywood,80.0,1.0,0
+3 Idiots,20453,V2,There Goes My Baby,88641,3,0.22,Drama Comedy,Hollywood,80.0,1.0,0
+3 Idiots,20453,V2,Tu Hai Mera Sunday,413771,4,0.2134,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V2,The Motel,20520,5,0.2115,Drama Comedy,Hollywood,80.0,1.0,0
+3 Idiots,20453,V2,Jacob Cardoso,1447191,6,0.2084,Romance Drama Comedy,Bollywood,60.0,0.6667,0
+3 Idiots,20453,V2,Funny Ha Ha,33693,7,0.2074,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V2,Shararat,410245,8,0.2066,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V2,Smoke Signals,20862,9,0.2066,Drama Comedy,Hollywood,80.0,1.0,0
+3 Idiots,20453,V2,Tauba Tauba,276501,10,0.2057,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V3,4 Idiots,1405475,1,0.6663,Comedy,Bollywood,80.0,0.5,1
+3 Idiots,20453,V3,Naunihal,352395,2,0.5421,Family Crime Drama,Bollywood,80.0,0.25,0
+3 Idiots,20453,V3,Chaarfutiya Chhokare,307211,3,0.5353,Drama Thriller,Bollywood,80.0,0.3333,0
+3 Idiots,20453,V3,Aamdani Atthanni Kharcha Rupaiya,25801,4,0.5336,Comedy,Bollywood,80.0,0.5,0
+3 Idiots,20453,V3,Xcuse Me,48244,5,0.5324,Comedy,Bollywood,80.0,0.5,0
+3 Idiots,20453,V3,Dil,65683,6,0.5222,Drama Comedy Romance,Bollywood,80.0,0.6667,0
+3 Idiots,20453,V3,Hum Hain Rahi Pyar Ke,54814,7,0.5175,Family Comedy Romance Drama,Bollywood,80.0,0.5,0
+3 Idiots,20453,V3,Hindi Medium,456570,8,0.5146,Comedy Drama,Bollywood,100.0,1.0,0
+3 Idiots,20453,V3,Like Stars on Earth,7508,9,0.5081,Drama,Bollywood,100.0,0.5,0
+3 Idiots,20453,V3,Superbad,8363,10,0.5076,Comedy,Hollywood,100.0,0.5,0
+3 Idiots,20453,V4 (50:50),4 Idiots,1405475,1,0.4222,Comedy,Bollywood,80.0,0.5,1
+3 Idiots,20453,V4 (50:50),Dil,65683,2,0.35,Drama Comedy Romance,Bollywood,80.0,0.6667,0
+3 Idiots,20453,V4 (50:50),Xcuse Me,48244,3,0.3262,Comedy,Bollywood,80.0,0.5,0
+3 Idiots,20453,V4 (50:50),Driving Lessons,11404,4,0.3229,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4 (50:50),Jolly LLB 3,1015981,5,0.322,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4 (50:50),Aamdani Atthanni Kharcha Rupaiya,25801,6,0.3071,Comedy,Bollywood,80.0,0.5,0
+3 Idiots,20453,V4 (50:50),Loser,10642,7,0.3039,Drama Comedy Romance Family,Hollywood,100.0,0.5,0
+3 Idiots,20453,V4 (50:50),Hichki,493623,8,0.3016,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4 (50:50),Like Stars on Earth,7508,9,0.3015,Drama,Bollywood,100.0,0.5,0
+3 Idiots,20453,V4 (50:50),Dope,308639,10,0.3008,Crime Drama Comedy,Hollywood,100.0,0.6667,0
+3 Idiots,20453,V4.1 (70:30),Jolly LLB 3,1015981,1,0.3822,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Driving Lessons,11404,2,0.374,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Tauba Tauba,276501,3,0.3714,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Tu Hai Mera Sunday,413771,4,0.3643,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Aryabhatt Ka Zero,1714993,5,0.3639,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Shararat,410245,6,0.3608,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Funny Ha Ha,33693,7,0.3595,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Hichki,493623,8,0.3582,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),Jhoothi,263284,9,0.3543,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (70:30),About Schmidt,2755,10,0.3534,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Driving Lessons,11404,1,0.4245,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Jolly LLB 3,1015981,2,0.4237,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Hichki,493623,3,0.4064,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Tauba Tauba,276501,4,0.4024,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Dil,65683,5,0.3975,Drama Comedy Romance,Bollywood,80.0,0.6667,0
+3 Idiots,20453,V4.1 (50:50),Hindi Medium,456570,6,0.3955,Comedy Drama,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Aryabhatt Ka Zero,1714993,7,0.391,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),The Bucket List,7350,8,0.3893,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Tu Hai Mera Sunday,413771,9,0.3863,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (50:50),Shararat,410245,10,0.3842,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),Driving Lessons,11404,1,0.475,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),Hindi Medium,456570,2,0.4722,Comedy Drama,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),Jolly LLB 3,1015981,3,0.4652,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),Madgaon Express,1201015,4,0.4576,Comedy Drama,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),Dil,65683,5,0.4561,Drama Comedy Romance,Bollywood,80.0,0.6667,0
+3 Idiots,20453,V4.1 (30:70),Hichki,493623,6,0.4546,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),4 Idiots,1405475,7,0.4393,Comedy,Bollywood,80.0,0.5,1
+3 Idiots,20453,V4.1 (30:70),Jhootha Kahin Ka,616172,8,0.4342,Comedy Drama,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),Tauba Tauba,276501,9,0.4335,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.1 (30:70),The Bucket List,7350,10,0.4259,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.2,4 Idiots,1405475,1,0.38,Comedy,Bollywood,80.0,0.5,1
+3 Idiots,20453,V4.2,Dil,65683,2,0.3267,Drama Comedy Romance,Bollywood,80.0,0.6667,0
+3 Idiots,20453,V4.2,Driving Lessons,11404,3,0.3229,Drama Comedy,Hollywood,100.0,1.0,0
+3 Idiots,20453,V4.2,Jolly LLB 3,1015981,4,0.322,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.2,Hichki,493623,5,0.3016,Drama Comedy,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.2,Tauba Tauba,276501,6,0.297,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.2,Xcuse Me,48244,7,0.2936,Comedy,Bollywood,80.0,0.5,0
+3 Idiots,20453,V4.2,Hindi Medium,456570,8,0.2888,Comedy Drama,Bollywood,100.0,1.0,0
+3 Idiots,20453,V4.2,Aryabhatt Ka Zero,1714993,9,0.2836,Drama Comedy,Bollywood,80.0,1.0,0
+3 Idiots,20453,V4.2,The Bucket List,7350,10,0.2816,Drama Comedy,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,Grace Unplugged,206284,1,0.2164,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,Once,5723,2,0.2156,Drama Music Romance,Hollywood,100.0,0.6667,0
+Secret Superstar,441889,V2,Madam Fashion,663144,3,0.2,Drama Music,Bollywood,80.0,1.0,0
+Secret Superstar,441889,V2,La Bamba,16620,4,0.1995,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,The Doors,10537,5,0.198,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,Straight Outta Compton,277216,6,0.1932,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,Stomp the Yard,1931,7,0.1898,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,Coal Miner's Daughter,16769,8,0.1883,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V2,Eve's Bayou,45153,9,0.188,Drama,Hollywood,100.0,0.5,0
+Secret Superstar,441889,V2,Sherrybaby,13075,10,0.1814,Drama,Hollywood,100.0,0.5,0
+Secret Superstar,441889,V3,Aashiqui 2,192558,1,0.5573,Drama Romance,Bollywood,100.0,0.3333,0
+Secret Superstar,441889,V3,Gupt: The Hidden Truth,21906,2,0.5406,Thriller Action Romance,Bollywood,100.0,0.0,0
+Secret Superstar,441889,V3,Tu Hai Meri Kiran,1785611,3,0.5348,Romance Thriller,Bollywood,80.0,0.0,0
+Secret Superstar,441889,V3,Mardaani,287767,4,0.5347,Action Crime Drama Thriller,Bollywood,100.0,0.2,0
+Secret Superstar,441889,V3,Ek Chhoti Si Love Story,117142,5,0.5316,Romance Drama,Bollywood,100.0,0.3333,0
+Secret Superstar,441889,V3,Pistolwali,464596,6,0.5284,,Bollywood,60.0,0.0,0
+Secret Superstar,441889,V3,Gajab Raat,1453407,7,0.5283,Thriller Crime,Bollywood,100.0,0.0,0
+Secret Superstar,441889,V3,D.E.B.S.,540,8,0.5273,Action,Hollywood,100.0,0.0,0
+Secret Superstar,441889,V3,Hacked,662231,9,0.5235,Thriller,Bollywood,80.0,0.0,0
+Secret Superstar,441889,V3,Arjun Pandit,213565,10,0.523,Action Crime Romance,Bollywood,80.0,0.0,0
+Secret Superstar,441889,V4 (50:50),Jashnn: The Music Within,20292,1,0.3267,Drama Music Romance,Bollywood,80.0,0.6667,0
+Secret Superstar,441889,V4 (50:50),Divine Secrets of the Ya-Ya Sisterhood,9583,2,0.3158,Comedy Drama Romance,Hollywood,100.0,0.25,0
+Secret Superstar,441889,V4 (50:50),Madam Fashion,663144,3,0.3146,Drama Music,Bollywood,80.0,1.0,0
+Secret Superstar,441889,V4 (50:50),Grace Unplugged,206284,4,0.309,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4 (50:50),Saiyaara,1241634,5,0.3024,Romance Drama Music,Bollywood,100.0,0.6667,0
+Secret Superstar,441889,V4 (50:50),Mom,404604,6,0.3017,Crime Drama Thriller,Bollywood,100.0,0.25,0
+Secret Superstar,441889,V4 (50:50),Starfruits,1180602,7,0.2988,Drama,Bollywood,80.0,0.5,0
+Secret Superstar,441889,V4 (50:50),Awaara,39039,8,0.2972,Drama Music Romance,Bollywood,100.0,0.6667,0
+Secret Superstar,441889,V4 (50:50),The Runaways,27586,9,0.2935,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4 (50:50),What's Love Got to Do with It,15765,10,0.2915,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),Grace Unplugged,206284,1,0.3812,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),Madam Fashion,663144,2,0.3785,Drama Music,Bollywood,80.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),What's Love Got to Do with It,15765,3,0.3595,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),Straight Outta Compton,277216,4,0.3584,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),The Runaways,27586,5,0.3552,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),Sparkle,88036,6,0.3488,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),La Bamba,16620,7,0.3486,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),Masked and Anonymous,24356,8,0.3471,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),Coal Miner's Daughter,16769,9,0.3463,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (70:30),The Doors,10537,10,0.3454,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Madam Fashion,663144,1,0.4174,Drama Music,Bollywood,80.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Grace Unplugged,206284,2,0.4127,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),The Runaways,27586,3,0.3995,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),What's Love Got to Do with It,15765,4,0.3978,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Sparkle,88036,5,0.3889,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Straight Outta Compton,277216,6,0.3879,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Masked and Anonymous,24356,7,0.3878,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Jashnn: The Music Within,20292,8,0.3777,Drama Music Romance,Bollywood,80.0,0.6667,0
+Secret Superstar,441889,V4.1 (50:50),To Write Love on Her Arms,75861,9,0.3755,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (50:50),Bajrangi Bhaijaan,348892,10,0.3716,Music Drama,Bollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Madam Fashion,663144,1,0.4564,Drama Music,Bollywood,80.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Grace Unplugged,206284,2,0.4442,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),The Runaways,27586,3,0.4438,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Jashnn: The Music Within,20292,4,0.438,Drama Music Romance,Bollywood,80.0,0.6667,0
+Secret Superstar,441889,V4.1 (30:70),Bajrangi Bhaijaan,348892,5,0.438,Music Drama,Bollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),What's Love Got to Do with It,15765,6,0.4361,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Gully Boy,491625,7,0.4351,Music Drama,Bollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Disco Dancer,19887,8,0.4302,Music Drama,Bollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Sparkle,88036,9,0.4289,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.1 (30:70),Masked and Anonymous,24356,10,0.4285,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,Madam Fashion,663144,1,0.3146,Drama Music,Bollywood,80.0,1.0,0
+Secret Superstar,441889,V4.2,Grace Unplugged,206284,2,0.309,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,Jashnn: The Music Within,20292,3,0.3049,Drama Music Romance,Bollywood,80.0,0.6667,0
+Secret Superstar,441889,V4.2,The Runaways,27586,4,0.2935,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,What's Love Got to Do with It,15765,5,0.2915,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,Saiyaara,1241634,6,0.2822,Romance Drama Music,Bollywood,100.0,0.6667,0
+Secret Superstar,441889,V4.2,Sparkle,88036,7,0.281,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,Straight Outta Compton,277216,8,0.2798,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,Masked and Anonymous,24356,9,0.2797,Drama Music,Hollywood,100.0,1.0,0
+Secret Superstar,441889,V4.2,Awaara,39039,10,0.2774,Drama Music Romance,Bollywood,100.0,0.6667,0
+The Dark Knight,155,V2,The Dark Knight Rises,49026,1,0.4828,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V2,Batman Begins,272,2,0.4165,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V2,Batman Forever,414,3,0.312,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V2,Amidst the Devil's Wings,378237,4,0.2981,Drama Action Crime,Hollywood,40.0,0.75,0
+The Dark Knight,155,V2,Batman Returns,364,5,0.2836,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V2,Batman & Robin,415,6,0.269,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V2,Batman,268,7,0.2198,Fantasy Action,Hollywood,100.0,0.2,1
+The Dark Knight,155,V2,"Batman: The Dark Knight Returns, Part 2",142061,8,0.2196,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V2,Batman v Superman: Dawn of Justice,209112,9,0.2115,Action Adventure Fantasy,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V2,Kick-Ass,23483,10,0.2082,Action Crime,Hollywood,100.0,0.5,0
+The Dark Knight,155,V3,The Dark Knight Rises,49026,1,0.855,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V3,Batman,268,2,0.8264,Fantasy Action,Hollywood,100.0,0.2,1
+The Dark Knight,155,V3,Batman Begins,272,3,0.7979,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V3,"Batman: The Dark Knight Returns, Part 2",142061,4,0.7443,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V3,Batman v Superman: Dawn of Justice,209112,5,0.7304,Action Adventure Fantasy,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V3,Batman & Robin,415,6,0.728,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V3,Batman Forever,414,7,0.7119,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V3,Batman Returns,364,8,0.702,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V3,All Superheroes Must Die,86304,9,0.5774,Science Fiction Thriller,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V3,Watchmen,13183,10,0.5536,Action Mystery Science Fiction,Hollywood,100.0,0.1429,0
+The Dark Knight,155,V4 (50:50),The Dark Knight Rises,49026,1,0.6689,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V4 (50:50),Batman Begins,272,2,0.6072,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4 (50:50),Batman,268,3,0.5231,Fantasy Action,Hollywood,100.0,0.2,1
+The Dark Knight,155,V4 (50:50),Batman Forever,414,4,0.512,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V4 (50:50),Batman & Robin,415,5,0.4985,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V4 (50:50),Batman Returns,364,6,0.4928,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4 (50:50),"Batman: The Dark Knight Returns, Part 2",142061,7,0.482,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4 (50:50),Batman v Superman: Dawn of Justice,209112,8,0.4709,Action Adventure Fantasy,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V4 (50:50),Law Abiding Citizen,22803,9,0.3756,Drama Crime Thriller,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4 (50:50),Defendor,34769,10,0.3643,Drama Action Comedy Crime,Hollywood,100.0,0.6,0
+The Dark Knight,155,V4.1 (70:30),Batman Begins,272,1,0.5638,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.1 (70:30),The Dark Knight Rises,49026,2,0.557,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V4.1 (70:30),Batman & Robin,415,3,0.4057,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V4.1 (70:30),Amidst the Devil's Wings,378237,4,0.3825,Drama Action Crime,Hollywood,40.0,0.75,0
+The Dark Knight,155,V4.1 (70:30),Batman Returns,364,5,0.3778,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.1 (70:30),Law Abiding Citizen,22803,6,0.3742,Drama Crime Thriller,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.1 (70:30),Batman Forever,414,7,0.3631,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V4.1 (70:30),"Batman: The Dark Knight Returns, Part 2",142061,8,0.3505,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.1 (70:30),Dark Blue,4911,9,0.3461,Action Crime Drama Thriller,Hollywood,100.0,1.0,0
+The Dark Knight,155,V4.1 (70:30),Hitman,1620,10,0.3437,Action Crime Drama Thriller,Hollywood,100.0,1.0,0
+The Dark Knight,155,V4.1 (50:50),Batman Begins,272,1,0.6286,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.1 (50:50),The Dark Knight Rises,49026,2,0.6108,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V4.1 (50:50),Batman & Robin,415,3,0.4837,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V4.1 (50:50),Batman Returns,364,4,0.4489,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.1 (50:50),"Batman: The Dark Knight Returns, Part 2",142061,5,0.4397,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.1 (50:50),Law Abiding Citizen,22803,6,0.4318,Drama Crime Thriller,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.1 (50:50),Batman v Superman: Dawn of Justice,209112,7,0.4253,Action Adventure Fantasy,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V4.1 (50:50),Dark Blue,4911,8,0.423,Action Crime Drama Thriller,Hollywood,100.0,1.0,0
+The Dark Knight,155,V4.1 (50:50),Batman Forever,414,9,0.4209,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V4.1 (50:50),Batman,268,10,0.4034,Fantasy Action,Hollywood,100.0,0.2,1
+The Dark Knight,155,V4.1 (30:70),Batman Begins,272,1,0.6935,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.1 (30:70),The Dark Knight Rises,49026,2,0.6645,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V4.1 (30:70),Batman & Robin,415,3,0.5617,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V4.1 (30:70),"Batman: The Dark Knight Returns, Part 2",142061,4,0.5289,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.1 (30:70),Batman Returns,364,5,0.52,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.1 (30:70),Batman v Superman: Dawn of Justice,209112,6,0.5135,Action Adventure Fantasy,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V4.1 (30:70),Dark Blue,4911,7,0.4999,Action Crime Drama Thriller,Hollywood,100.0,1.0,0
+The Dark Knight,155,V4.1 (30:70),Batman,268,8,0.4911,Fantasy Action,Hollywood,100.0,0.2,1
+The Dark Knight,155,V4.1 (30:70),Law Abiding Citizen,22803,9,0.4893,Drama Crime Thriller,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.1 (30:70),Batman Forever,414,10,0.4787,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V4.2,The Dark Knight Rises,49026,1,0.6689,Action Crime Drama Thriller,Hollywood,100.0,1.0,1
+The Dark Knight,155,V4.2,Batman Begins,272,2,0.5768,Action Crime Drama,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.2,Batman Forever,414,3,0.4505,Action Crime Fantasy,Hollywood,100.0,0.4,1
+The Dark Knight,155,V4.2,Batman,268,4,0.4394,Fantasy Action,Hollywood,100.0,0.2,1
+The Dark Knight,155,V4.2,Batman & Robin,415,5,0.4387,Action Crime Fantasy,Hollywood,100.0,0.4,0
+The Dark Knight,155,V4.2,Batman Returns,364,6,0.414,Action Fantasy,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.2,"Batman: The Dark Knight Returns, Part 2",142061,7,0.4048,Action Animation,Hollywood,100.0,0.2,0
+The Dark Knight,155,V4.2,Batman v Superman: Dawn of Justice,209112,8,0.3924,Action Adventure Fantasy,Hollywood,100.0,0.1667,0
+The Dark Knight,155,V4.2,Law Abiding Citizen,22803,9,0.3568,Drama Crime Thriller,Hollywood,100.0,0.75,0
+The Dark Knight,155,V4.2,Defendor,34769,10,0.3351,Drama Action Comedy Crime,Hollywood,100.0,0.6,0
+Iron Man,1726,V2,Iron Man 2,10138,1,0.5817,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V2,Iron Man 3,68721,2,0.4713,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V2,Avengers: Age of Ultron,99861,3,0.34,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V2,Ant-Man,102899,4,0.3262,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V2,Captain America: Civil War,271110,5,0.3086,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V2,Guardians of the Galaxy,118340,6,0.3002,Action Science Fiction Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V2,The Wolverine,76170,7,0.2869,Action Science Fiction Adventure Fantasy,Hollywood,100.0,0.8,0
+Iron Man,1726,V2,X-Men: First Class,49538,8,0.2862,Action Science Fiction Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V2,The Incredible Hulk,1724,9,0.2785,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V2,The Avengers,24428,10,0.2779,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V3,Iron Man 2,10138,1,0.7698,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V3,Iron Man 3,68721,2,0.7235,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V3,Captain America: Civil War,271110,3,0.6356,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V3,Avengers: Age of Ultron,99861,4,0.6201,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V3,Steel,8854,5,0.6039,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V3,The Avengers,24428,6,0.5955,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V3,Man of Steel,49521,7,0.5645,Action Adventure Fantasy Science Fiction,Hollywood,100.0,0.8,0
+Iron Man,1726,V3,Captain America: The First Avenger,1771,8,0.5362,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V3,Super,45132,9,0.5351,Comedy Action Drama,Hollywood,100.0,0.1667,0
+Iron Man,1726,V3,The Incredible Hulk,1724,10,0.5223,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),Iron Man 2,10138,1,0.6757,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4 (50:50),Iron Man 3,68721,2,0.5974,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),Avengers: Age of Ultron,99861,3,0.48,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),Captain America: Civil War,271110,4,0.4721,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4 (50:50),The Avengers,24428,5,0.4367,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),Ant-Man,102899,6,0.4038,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),The Incredible Hulk,1724,7,0.4004,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),Captain America: The First Avenger,1771,8,0.3865,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4 (50:50),The Wolverine,76170,9,0.3857,Action Science Fiction Adventure Fantasy,Hollywood,100.0,0.8,0
+Iron Man,1726,V4 (50:50),Captain America: The Winter Soldier,100402,10,0.3796,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),Iron Man 3,68721,1,0.6149,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),Iron Man 2,10138,2,0.5885,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.1 (70:30),Avengers: Age of Ultron,99861,3,0.5104,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),The Avengers,24428,4,0.4672,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),Ant-Man,102899,5,0.4669,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),The Incredible Hulk,1724,6,0.4489,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),X-Men: First Class,49538,7,0.4368,Action Science Fiction Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),X-Men,36657,8,0.4356,Adventure Action Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),Captain America: The Winter Soldier,100402,9,0.4309,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (70:30),Captain America: The First Avenger,1771,10,0.4276,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),Iron Man 3,68721,1,0.6578,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),Iron Man 2,10138,2,0.6157,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.1 (50:50),Avengers: Age of Ultron,99861,3,0.558,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),The Avengers,24428,4,0.5212,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),Ant-Man,102899,5,0.4933,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),The Incredible Hulk,1724,6,0.4903,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),Captain America: The First Avenger,1771,7,0.4785,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),Captain America: The Winter Soldier,100402,8,0.4726,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),X-Men,36657,9,0.47,Adventure Action Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (50:50),Captain America: Civil War,271110,10,0.4686,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.1 (30:70),Iron Man 3,68721,1,0.7006,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),Iron Man 2,10138,2,0.6429,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.1 (30:70),Avengers: Age of Ultron,99861,3,0.6056,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),The Avengers,24428,4,0.5752,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),The Incredible Hulk,1724,5,0.5318,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),Captain America: The First Avenger,1771,6,0.5294,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),Steel,8854,7,0.5278,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),Ant-Man,102899,8,0.5197,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.1 (30:70),Captain America: Civil War,271110,9,0.5159,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.1 (30:70),Captain America: The Winter Soldier,100402,10,0.5144,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,Iron Man 2,10138,1,0.6757,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.2,Iron Man 3,68721,2,0.5974,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,Avengers: Age of Ultron,99861,3,0.48,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,Captain America: Civil War,271110,4,0.4721,Adventure Action Science Fiction,Hollywood,100.0,1.0,1
+Iron Man,1726,V4.2,The Avengers,24428,5,0.4367,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,Ant-Man,102899,6,0.4038,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,The Incredible Hulk,1724,7,0.4004,Science Fiction Action Adventure,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,Captain America: The First Avenger,1771,8,0.3865,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,Captain America: The Winter Soldier,100402,9,0.3796,Action Adventure Science Fiction,Hollywood,100.0,1.0,0
+Iron Man,1726,V4.2,X-Men,36657,10,0.3765,Adventure Action Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V2,Silent Running,811,1,0.2892,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V2,About Time,122906,2,0.2437,Comedy Drama Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V2,Midnight Special,245703,3,0.2113,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V2,The Astronaut's Wife,2900,4,0.1971,Drama Science Fiction Thriller,Hollywood,100.0,0.6,0
+Interstellar,157336,V2,Hard to Be a God,110402,5,0.1906,Drama Science Fiction,Hollywood,80.0,0.75,0
+Interstellar,157336,V2,Solaris,593,6,0.1839,Drama Science Fiction Adventure Mystery,Hollywood,100.0,0.8,0
+Interstellar,157336,V2,Timeline,9562,7,0.1828,Action Adventure Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V2,Dawn of the Crescent Moon,326576,8,0.1758,Thriller Drama Science Fiction,Hollywood,80.0,0.6,0
+Interstellar,157336,V2,Space Pirate Captain Harlock,192577,9,0.175,Animation Science Fiction,Hollywood,80.0,0.4,0
+Interstellar,157336,V2,Ex Machina,264660,10,0.1749,Drama Science Fiction,Hollywood,100.0,0.75,0
+Interstellar,157336,V3,Mission to Mars,2067,1,0.6299,Science Fiction,Hollywood,100.0,0.5,0
+Interstellar,157336,V3,Prometheus,70981,2,0.5882,Science Fiction Adventure Mystery,Hollywood,100.0,0.6,0
+Interstellar,157336,V3,The Black Hole,9570,3,0.5788,Adventure Family Science Fiction Action,Hollywood,100.0,0.5,0
+Interstellar,157336,V3,Lost in Space,2157,4,0.5769,Adventure Family Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V3,The Martian,286217,5,0.5704,Drama Adventure Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V3,Gravity,49047,6,0.5701,Science Fiction Thriller Drama,Hollywood,100.0,0.6,0
+Interstellar,157336,V3,Meet Dave,11260,7,0.5691,Comedy Science Fiction Adventure Family,Hollywood,100.0,0.5,0
+Interstellar,157336,V3,Galaxy Quest,926,8,0.5681,Comedy Family Science Fiction,Hollywood,100.0,0.3333,0
+Interstellar,157336,V3,Close Encounters of the Third Kind,840,9,0.5625,Science Fiction Drama,Hollywood,100.0,0.75,0
+Interstellar,157336,V3,Event Horizon,8413,10,0.5589,Horror Science Fiction Mystery,Hollywood,100.0,0.3333,0
+Interstellar,157336,V4 (50:50),Mission to Mars,2067,1,0.3961,Science Fiction,Hollywood,100.0,0.5,0
+Interstellar,157336,V4 (50:50),Silent Running,811,2,0.395,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4 (50:50),About Time,122906,3,0.3871,Comedy Drama Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4 (50:50),Lost in Space,2157,4,0.3729,Adventure Family Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4 (50:50),Gravity,49047,5,0.3655,Science Fiction Thriller Drama,Hollywood,100.0,0.6,0
+Interstellar,157336,V4 (50:50),The Martian,286217,6,0.3643,Drama Adventure Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4 (50:50),The Black Hole,9570,7,0.3547,Adventure Family Science Fiction Action,Hollywood,100.0,0.5,0
+Interstellar,157336,V4 (50:50),Event Horizon,8413,8,0.3538,Horror Science Fiction Mystery,Hollywood,100.0,0.3333,0
+Interstellar,157336,V4 (50:50),Prometheus,70981,9,0.3483,Science Fiction Adventure Mystery,Hollywood,100.0,0.6,0
+Interstellar,157336,V4 (50:50),Stargate: The Ark of Truth,13001,10,0.3444,Adventure Science Fiction,Hollywood,100.0,0.75,0
+Interstellar,157336,V4.1 (70:30),Silent Running,811,1,0.4498,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (70:30),Midnight Special,245703,2,0.3898,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (70:30),The Martian,286217,3,0.3896,Drama Adventure Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (70:30),A.I. Artificial Intelligence,644,4,0.3737,Drama Science Fiction Adventure,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (70:30),About Time,122906,5,0.3703,Comedy Drama Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (70:30),"20,000 Leagues Under the Sea",173,6,0.3534,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (70:30),Solaris,593,7,0.3457,Drama Science Fiction Adventure Mystery,Hollywood,100.0,0.8,0
+Interstellar,157336,V4.1 (70:30),The Astronaut Farmer,5172,8,0.3454,Adventure Comedy Drama Science Fiction,Hollywood,100.0,0.8,0
+Interstellar,157336,V4.1 (70:30),Stargate: The Ark of Truth,13001,9,0.3378,Adventure Science Fiction,Hollywood,100.0,0.75,0
+Interstellar,157336,V4.1 (70:30),Lost in Space,2157,10,0.3376,Adventure Family Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (50:50),Silent Running,811,1,0.4857,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (50:50),The Martian,286217,2,0.4597,Drama Adventure Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (50:50),Midnight Special,245703,3,0.4299,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (50:50),A.I. Artificial Intelligence,644,4,0.4273,Drama Science Fiction Adventure,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (50:50),About Time,122906,5,0.4191,Comedy Drama Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (50:50),Mission to Mars,2067,6,0.4117,Science Fiction,Hollywood,100.0,0.5,0
+Interstellar,157336,V4.1 (50:50),Lost in Space,2157,7,0.407,Adventure Family Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (50:50),Stargate: The Ark of Truth,13001,8,0.4052,Adventure Science Fiction,Hollywood,100.0,0.75,0
+Interstellar,157336,V4.1 (50:50),Gravity,49047,9,0.4007,Science Fiction Thriller Drama,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (50:50),"20,000 Leagues Under the Sea",173,10,0.3984,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (30:70),The Martian,286217,1,0.5298,Drama Adventure Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (30:70),Silent Running,811,2,0.5217,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (30:70),Mission to Mars,2067,3,0.4912,Science Fiction,Hollywood,100.0,0.5,0
+Interstellar,157336,V4.1 (30:70),A.I. Artificial Intelligence,644,4,0.4809,Drama Science Fiction Adventure,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (30:70),Lost in Space,2157,5,0.4763,Adventure Family Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (30:70),Stargate: The Ark of Truth,13001,6,0.4726,Adventure Science Fiction,Hollywood,100.0,0.75,0
+Interstellar,157336,V4.1 (30:70),Gravity,49047,7,0.4702,Science Fiction Thriller Drama,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (30:70),Midnight Special,245703,8,0.47,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.1 (30:70),About Time,122906,9,0.4678,Comedy Drama Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.1 (30:70),Prometheus,70981,10,0.4676,Science Fiction Adventure Mystery,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.2,Silent Running,811,1,0.395,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.2,The Martian,286217,2,0.3643,Drama Adventure Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.2,Mission to Mars,2067,3,0.3565,Science Fiction,Hollywood,100.0,0.5,0
+Interstellar,157336,V4.2,About Time,122906,4,0.3562,Comedy Drama Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.2,Lost in Space,2157,5,0.3431,Adventure Family Science Fiction,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.2,Gravity,49047,6,0.3362,Science Fiction Thriller Drama,Hollywood,100.0,0.6,0
+Interstellar,157336,V4.2,Midnight Special,245703,7,0.3293,Adventure Drama Science Fiction,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.2,Stargate: The Ark of Truth,13001,8,0.3271,Adventure Science Fiction,Hollywood,100.0,0.75,0
+Interstellar,157336,V4.2,A.I. Artificial Intelligence,644,9,0.3263,Drama Science Fiction Adventure,Hollywood,100.0,1.0,0
+Interstellar,157336,V4.2,Prometheus,70981,10,0.3204,Science Fiction Adventure Mystery,Hollywood,100.0,0.6,0
+Hera Pheri,21614,V2,Malamaal Weekly,20494,1,0.4138,Comedy Crime,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V2,Small Apartments,95755,2,0.308,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V2,Identity Thief,109431,3,0.25,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V2,An Everlasting Piece,29122,4,0.25,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V2,We're the Millers,138832,5,0.2323,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V2,Office Space,1542,6,0.2272,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V2,Police Academy: Mission to Moscow,11546,7,0.2272,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V2,Analyze That,9932,8,0.2248,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V2,Phir Hera Pheri,20359,9,0.2241,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V2,Half Baked,9490,10,0.2237,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V3,Phir Hera Pheri,20359,1,0.7619,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V3,Maa Behen,1363988,2,0.6524,Comedy Drama Thriller,Bollywood,80.0,0.25,0
+Hera Pheri,21614,V3,Haque,312558,3,0.6431,Thriller,Bollywood,80.0,0.0,0
+Hera Pheri,21614,V3,Pratap,1808244,4,0.633,Action Thriller,Bollywood,80.0,0.0,0
+Hera Pheri,21614,V3,Jeevan Jyoti,991468,5,0.6279,Drama,Bollywood,80.0,0.0,0
+Hera Pheri,21614,V3,Bhayaanak Panjaa,525491,6,0.6274,Horror,Bollywood,80.0,0.0,0
+Hera Pheri,21614,V3,Andaz Apna Apna,58128,7,0.6268,Comedy Romance Family,Bollywood,100.0,0.25,0
+Hera Pheri,21614,V3,Kaante,35907,8,0.621,Crime Thriller Action,Bollywood,80.0,0.25,0
+Hera Pheri,21614,V3,Reporting Live,1389172,9,0.6201,Crime Thriller,Bollywood,100.0,0.3333,0
+Hera Pheri,21614,V3,Ascharya Fuck It,569578,10,0.62,Thriller Drama,Bollywood,100.0,0.0,0
+Hera Pheri,21614,V4 (50:50),Malamaal Weekly,20494,1,0.508,Comedy Crime,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4 (50:50),Phir Hera Pheri,20359,2,0.493,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4 (50:50),Small Apartments,95755,3,0.3984,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4 (50:50),Welcome,20294,4,0.3781,Comedy Crime Family,Bollywood,80.0,0.6667,0
+Hera Pheri,21614,V4 (50:50),Kabhi Na Kabhi,133307,5,0.3769,Crime,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4 (50:50),King's Ransom,27360,6,0.3729,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4 (50:50),Aamdani Atthanni Kharcha Rupaiya,25801,7,0.3701,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4 (50:50),Apna Sapna Money Money,46371,8,0.3563,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4 (50:50),Kaante,35907,9,0.3558,Crime Thriller Action,Bollywood,80.0,0.25,0
+Hera Pheri,21614,V4 (50:50),Phir Bhi Dil Hai Hindustani,97351,10,0.3442,Romance Comedy Crime,Bollywood,80.0,0.6667,0
+Hera Pheri,21614,V4.1 (70:30),Malamaal Weekly,20494,1,0.5498,Comedy Crime,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),Small Apartments,95755,2,0.4579,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),King's Ransom,27360,3,0.4147,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),Phir Hera Pheri,20359,4,0.4026,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.1 (70:30),Identity Thief,109431,5,0.4001,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),Office Space,1542,6,0.3875,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),Police Academy: Mission to Moscow,11546,7,0.3853,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),Analyze That,9932,8,0.3847,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),We're the Millers,138832,9,0.3841,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (70:30),Let's Go to Prison,9809,10,0.3805,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Malamaal Weekly,20494,1,0.5818,Comedy Crime,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Phir Hera Pheri,20359,2,0.494,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.1 (50:50),Small Apartments,95755,3,0.4887,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),King's Ransom,27360,4,0.467,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Jeevan Bheema Yojana,1389153,5,0.4389,Crime Comedy,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Identity Thief,109431,6,0.4251,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Welcome,20294,7,0.4214,Comedy Crime Family,Bollywood,80.0,0.6667,0
+Hera Pheri,21614,V4.1 (50:50),Office Space,1542,8,0.4171,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Analyze That,9932,9,0.4138,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (50:50),Police Academy: Mission to Moscow,11546,10,0.4133,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (30:70),Malamaal Weekly,20494,1,0.6138,Comedy Crime,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (30:70),Phir Hera Pheri,20359,2,0.5855,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.1 (30:70),Small Apartments,95755,3,0.5194,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (30:70),King's Ransom,27360,4,0.5193,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.1 (30:70),Jeevan Bheema Yojana,1389153,5,0.5095,Crime Comedy,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.1 (30:70),Welcome,20294,6,0.4963,Comedy Crime Family,Bollywood,80.0,0.6667,0
+Hera Pheri,21614,V4.1 (30:70),Aamdani Atthanni Kharcha Rupaiya,25801,7,0.4714,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.1 (30:70),Apna Sapna Money Money,46371,8,0.4626,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.1 (30:70),Kabhi Na Kabhi,133307,9,0.4599,Crime,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.1 (30:70),Identity Thief,109431,10,0.4502,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.2,Malamaal Weekly,20494,1,0.508,Comedy Crime,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.2,Phir Hera Pheri,20359,2,0.4437,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.2,Small Apartments,95755,3,0.3984,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.2,King's Ransom,27360,4,0.3729,Comedy Crime,Hollywood,100.0,1.0,0
+Hera Pheri,21614,V4.2,Welcome,20294,5,0.3529,Comedy Crime Family,Bollywood,80.0,0.6667,0
+Hera Pheri,21614,V4.2,Jeevan Bheema Yojana,1389153,6,0.3399,Crime Comedy,Bollywood,80.0,1.0,0
+Hera Pheri,21614,V4.2,Kabhi Na Kabhi,133307,7,0.3392,Crime,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.2,Aamdani Atthanni Kharcha Rupaiya,25801,8,0.3331,Comedy,Bollywood,80.0,0.5,0
+Hera Pheri,21614,V4.2,Identity Thief,109431,9,0.3237,Comedy Crime,Hollywood,80.0,1.0,0
+Hera Pheri,21614,V4.2,Phir Bhi Dil Hai Hindustani,97351,10,0.3213,Romance Comedy Crime,Bollywood,80.0,0.6667,0
+Drishyam,352173,V2,Drishyam 2,1029827,1,0.3462,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V2,Sector 36,1245700,2,0.2011,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V2,Taish,605456,3,0.183,Thriller Drama Crime,Bollywood,100.0,0.75,0
+Drishyam,352173,V2,Deva,1195430,4,0.1667,Action Thriller Mystery Crime,Bollywood,100.0,0.6,0
+Drishyam,352173,V2,Freeze Frame,12612,5,0.1663,Thriller Drama Crime,Hollywood,100.0,0.75,0
+Drishyam,352173,V2,Baby John,1083241,6,0.1649,Action Drama Thriller Crime,Bollywood,100.0,0.6,0
+Drishyam,352173,V2,The Confession of Mary,1389169,7,0.1627,Mystery Thriller Drama,Bollywood,80.0,0.75,0
+Drishyam,352173,V2,Black Water Transit,310706,8,0.1615,Drama Crime,Hollywood,80.0,0.5,0
+Drishyam,352173,V2,Gone Girl,210577,9,0.15,Mystery Thriller Drama,Hollywood,100.0,0.75,0
+Drishyam,352173,V2,The Truman Show,37165,10,0.1488,Comedy Drama,Hollywood,100.0,0.2,0
+Drishyam,352173,V3,Drishyam: The Conclusion,1269325,1,0.7555,Thriller Drama Mystery Crime,Bollywood,100.0,1.0,0
+Drishyam,352173,V3,Drishyam 2,1029827,2,0.6845,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V3,Ittefaq,464458,3,0.6419,Crime Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V3,Gajab Raat,1453407,4,0.6412,Thriller Crime,Bollywood,100.0,0.5,0
+Drishyam,352173,V3,Anjan,1508601,5,0.6357,,Bollywood,60.0,0.0,0
+Drishyam,352173,V3,Pratap,1808244,6,0.6297,Action Thriller,Bollywood,80.0,0.2,0
+Drishyam,352173,V3,Babita Singh Reporting,1654516,7,0.6256,Crime Drama,Bollywood,100.0,0.5,0
+Drishyam,352173,V3,Bhayaanak Panjaa,525491,8,0.625,Horror,Bollywood,80.0,0.0,0
+Drishyam,352173,V3,Barot House,621385,9,0.6241,Thriller Mystery,Bollywood,80.0,0.5,0
+Drishyam,352173,V3,Reporting Live,1389172,10,0.6224,Crime Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V4 (50:50),Drishyam 2,1029827,1,0.5154,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V4 (50:50),Drishyam: The Conclusion,1269325,2,0.443,Thriller Drama Mystery Crime,Bollywood,100.0,1.0,0
+Drishyam,352173,V4 (50:50),Sector 36,1245700,3,0.3953,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4 (50:50),Taish,605456,4,0.3817,Thriller Drama Crime,Bollywood,100.0,0.75,0
+Drishyam,352173,V4 (50:50),Babita Singh Reporting,1654516,5,0.3801,Crime Drama,Bollywood,100.0,0.5,0
+Drishyam,352173,V4 (50:50),My Client's Wife,729081,6,0.3709,Mystery Thriller,Bollywood,80.0,0.5,0
+Drishyam,352173,V4 (50:50),Ittefaq,464458,7,0.363,Crime Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V4 (50:50),Ikka,1484913,8,0.3591,Drama Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V4 (50:50),Jaane Jaan,950071,9,0.3504,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4 (50:50),Barot House,621385,10,0.3462,Thriller Mystery,Bollywood,80.0,0.5,0
+Drishyam,352173,V4.1 (70:30),Drishyam 2,1029827,1,0.4931,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (70:30),Drishyam: The Conclusion,1269325,2,0.4202,Thriller Drama Mystery Crime,Bollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (70:30),Sector 36,1245700,3,0.3825,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (70:30),Taish,605456,4,0.3694,Thriller Drama Crime,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (70:30),The Confession of Mary,1389169,5,0.34,Mystery Thriller Drama,Bollywood,80.0,0.75,0
+Drishyam,352173,V4.1 (70:30),High Crimes,11560,6,0.3399,Drama Mystery Thriller Crime,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (70:30),Jindabyne,4657,7,0.3354,Crime Drama Mystery Thriller,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (70:30),The Pelican Brief,9944,8,0.3326,Drama Mystery Thriller Crime,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (70:30),The Betrayed,20055,9,0.3305,Crime Drama Mystery Thriller,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (70:30),Zodiac,1949,10,0.3261,Crime Drama Mystery Thriller,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (50:50),Drishyam 2,1029827,1,0.5506,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (50:50),Drishyam: The Conclusion,1269325,2,0.5265,Thriller Drama Mystery Crime,Bollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (50:50),Sector 36,1245700,3,0.4485,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (50:50),Taish,605456,4,0.437,Thriller Drama Crime,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (50:50),High Crimes,11560,5,0.4104,Drama Mystery Thriller Crime,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (50:50),Jaane Jaan,950071,6,0.4104,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (50:50),Jindabyne,4657,7,0.4073,Crime Drama Mystery Thriller,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (50:50),Raat Akeli Hai - The Bansal Murders,1415974,8,0.4038,Thriller Mystery Crime Drama,Bollywood,80.0,1.0,0
+Drishyam,352173,V4.1 (50:50),The Confession of Mary,1389169,9,0.3995,Mystery Thriller Drama,Bollywood,80.0,0.75,0
+Drishyam,352173,V4.1 (50:50),Babita Singh Reporting,1654516,10,0.3981,Crime Drama,Bollywood,100.0,0.5,0
+Drishyam,352173,V4.1 (30:70),Drishyam: The Conclusion,1269325,1,0.6328,Thriller Drama Mystery Crime,Bollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (30:70),Drishyam 2,1029827,2,0.6081,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (30:70),Sector 36,1245700,3,0.5145,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (30:70),Taish,605456,4,0.5045,Thriller Drama Crime,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (30:70),Jaane Jaan,950071,5,0.4954,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.1 (30:70),Raat Akeli Hai - The Bansal Murders,1415974,6,0.4834,Thriller Mystery Crime Drama,Bollywood,80.0,1.0,0
+Drishyam,352173,V4.1 (30:70),Babita Singh Reporting,1654516,7,0.4816,Crime Drama,Bollywood,100.0,0.5,0
+Drishyam,352173,V4.1 (30:70),High Crimes,11560,8,0.481,Drama Mystery Thriller Crime,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (30:70),Jindabyne,4657,9,0.4791,Crime Drama Mystery Thriller,Hollywood,100.0,1.0,0
+Drishyam,352173,V4.1 (30:70),Ittefaq,464458,10,0.4784,Crime Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V4.2,Drishyam 2,1029827,1,0.4896,Thriller Drama Mystery,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.2,Drishyam: The Conclusion,1269325,2,0.443,Thriller Drama Mystery Crime,Bollywood,100.0,1.0,0
+Drishyam,352173,V4.2,Sector 36,1245700,3,0.3755,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.2,Taish,605456,4,0.3626,Thriller Drama Crime,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.2,Babita Singh Reporting,1654516,5,0.3421,Crime Drama,Bollywood,100.0,0.5,0
+Drishyam,352173,V4.2,My Client's Wife,729081,6,0.3339,Mystery Thriller,Bollywood,80.0,0.5,0
+Drishyam,352173,V4.2,Jaane Jaan,950071,7,0.3329,Crime Thriller Drama,Bollywood,100.0,0.75,0
+Drishyam,352173,V4.2,Ittefaq,464458,8,0.3267,Crime Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V4.2,Ikka,1484913,9,0.3232,Drama Thriller,Bollywood,100.0,0.5,0
+Drishyam,352173,V4.2,Bekhabar,1555867,10,0.3224,,Bollywood,60.0,0.0,0

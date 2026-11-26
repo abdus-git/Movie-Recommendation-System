@@ -1,0 +1,8 @@
+﻿model_name,duplicate_recommendation_rate,genre_consistency,recommendation_diversity,precision_at_5,precision_at_10,ndcg_at_10,manual_ratings_received,model_complete_seed_lists,common_comparison_seed_lists,total_seed_lists,label_completion,manual_rating_threshold
+V2,0.0,0.7735,0.298,0.7,0.6875,0.8788,80,8,8,8,Complete,>= 2
+V3,0.0,0.3987,0.6772,0.625,0.5375,0.9716,80,8,8,8,Complete,>= 2
+V4 (50:50),0.0,0.6742,0.4608,0.675,0.7125,0.855,80,8,8,8,Complete,>= 2
+V4.1 (30:70),0.0,0.8165,0.2772,0.65,0.7125,0.9112,80,8,8,8,Complete,>= 2
+V4.1 (50:50),0.0,0.8623,0.2066,0.7,0.7125,0.8723,80,8,8,8,Complete,>= 2
+V4.1 (70:30),0.0,0.9098,0.1475,0.7,0.7125,0.8793,80,8,8,8,Complete,>= 2
+V4.2,0.0,0.7354,0.3911,0.7,0.7125,0.9214,80,8,8,8,Complete,>= 2

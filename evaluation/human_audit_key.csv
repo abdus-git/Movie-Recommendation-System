@@ -1,0 +1,31 @@
+﻿pair_id,seed_movie,seed_movie_id,recommended_movie,recommended_movie_id,relevance_rating,confidence,reasoning,model_exposure
+HA-001,The Dark Knight,155,Batman,268,3.0,High,"The overview places Batman against the Joker in Gotham; it directly shares the hero, city, and central conflict.",6
+HA-002,Iron Man,1726,The Incredible Hulk,1724,2.0,Medium,"A Marvel superhero origin and a hero pursued for his powers offer meaningful shared superhero-universe themes, but no Iron Man storyline is described.",7
+HA-003,Secret Superstar,441889,Madam Fashion,663144,1.0,Low,"The overview describes a modern woman and glamour, but does not establish a singer or music story; overlap is weak.",6
+HA-004,3 Idiots,20453,Tauba Tauba,276501,0.0,Medium,"The synopsis centers on sexual obsession and adult misconduct, not friendship, education, or the seed's coming-of-age themes.",5
+HA-005,Hera Pheri,21614,Small Apartments,95755,1.0,Medium,"A deadbeat hides an accidental killing in a black comedy, a weak crime-comedy similarity without the seed's money/ransom plot.",6
+HA-006,Interstellar,157336,A.I. Artificial Intelligence,644,2.0,Medium,"Artificial intelligence, humanity, and a parent-child bond create meaningful thematic overlap, though the plot is not an interstellar mission.",4
+HA-007,Drishyam,352173,Ittefaq,464458,3.0,High,"Two witnesses to a double murder are also suspects in a police investigation, closely matching the seed's crime, suspects, and deception themes.",4
+HA-008,Dangal,360814,My Girl,4032,1.0,Medium,"A child's family experiences and growing up are weak coming-of-age similarities, without the seed's sport or empowerment themes.",5
+HA-009,The Dark Knight,155,Law Abiding Citizen,22803,2.0,Medium,"Vigilante justice, crime, and a district attorney provide meaningful overlap, though the protagonist and plot differ.",5
+HA-010,Iron Man,1726,Iron Man 2,10138,3.0,High,The overview explicitly continues Tony Stark's armored-hero story and its public consequences.,7
+HA-011,3 Idiots,20453,Driving Lessons,11404,1.0,Medium,A teenager's coming-of-age and relationship with an older mentor are weak similarities; the story is not about education or student life.,5
+HA-012,Hera Pheri,21614,Welcome,20294,2.0,Medium,"Gangsters disrupt a respectable family's marriage plans in a comic chain of complications, meaningfully overlapping with crime comedy.",4
+HA-013,Drishyam,352173,Taish,605456,1.0,Medium,A revenge conflict between violent families shares crime and family tension but not the seed's concealment or investigative strategy.,6
+HA-014,Interstellar,157336,Dawn of the Crescent Moon,326576,0.0,Medium,"Its synopsis concerns students investigating a massacre legend; it provides no meaningful space, exploration, or cosmic-science connection.",1
+HA-015,Secret Superstar,441889,What's Love Got to Do with It,15765,3.0,High,"A female singer rises to fame while escaping an abusive relationship, an especially close match in music, abuse, and independence.",5
+HA-016,Dangal,360814,Kit Kittredge: An American Girl,8359,2.0,Medium,"A determined young girl faces hardship during the Depression, meaningfully echoing the seed's resilient female-protagonist and overcoming-obstacles themes.",2
+HA-017,3 Idiots,20453,Dil,65683,1.0,Medium,"College rivalry and romance provide some student-life overlap, but the central story is a romantic conflict.",5
+HA-018,Iron Man,1726,Captain America: The First Avenger,1771,2.0,Medium,"A Marvel super-soldier origin and world-saving hero premise overlap with Iron Man's superhero concept, though the period and plot differ.",6
+HA-019,The Dark Knight,155,Batman Begins,272,3.0,High,"Bruce Wayne becomes Gotham's crime-fighting vigilante, closely matching the character and crime-focused premise.",7
+HA-020,Dangal,360814,Namkeen,382989,1.0,Medium,"A mother and her daughters face changing circumstances, a broad family-resilience parallel without a sports or achievement focus.",6
+HA-021,Hera Pheri,21614,Identity Thief,109431,2.0,Medium,An identity theft and road pursuit built around criminal deception provides meaningful crime-comedy and scam overlap.,5
+HA-022,Interstellar,157336,Mission to Mars,2067,3.0,High,"A crew launches a rescue expedition to Mars after contact is lost, strongly matching space exploration and mission-survival concepts.",5
+HA-023,Secret Superstar,441889,D.E.B.S.,540,0.0,Medium,"The synopsis is a teen-crime-fighter romance, unrelated to a young singer facing domestic abuse and pursuing music.",1
+HA-024,Drishyam,352173,Sector 36,1245700,2.0,Medium,"A cop investigates disappearances linked to a serial killer, offering meaningful crime-investigation and suspense overlap.",6
+HA-025,Dangal,360814,Sunday,1054713,1.0,Medium,"A father relocates to support his son's studies and faces personal strain, a weak parent-child and education connection.",6
+HA-026,3 Idiots,20453,The Bucket List,7350,1.0,Medium,Male friendship and life lessons are broad overlaps; the story is otherwise about terminal illness and end-of-life goals.,3
+HA-027,The Dark Knight,155,Batman Returns,364,3.0,High,A Batman-led Gotham crime story with recurring characters and villains is directly aligned.,7
+HA-028,Iron Man,1726,Captain America: The Winter Soldier,100402,2.0,Medium,"The Avengers/SHIELD superhero world overlaps, but the story centers on Captain America rather than Iron Man.",5
+HA-029,Hera Pheri,21614,Police Academy: Mission to Moscow,11546,1.0,Medium,"Police and mafia are treated comically, but the law-enforcement plot has little in common with the seed's mistaken ransom scheme.",3
+HA-030,Interstellar,157336,Gravity,49047,3.0,High,"Astronauts face a catastrophic accident and struggle to survive in space, strongly matching space-mission danger and survival.",5

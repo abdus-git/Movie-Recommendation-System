@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+sentence-transformers
+streamlit
+requests
+python-dotenv
+nltk
+pillow
+pytest
